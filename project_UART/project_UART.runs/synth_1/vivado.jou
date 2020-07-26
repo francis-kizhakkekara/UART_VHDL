@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Mon Apr 27 10:46:54 2020
+# Process ID: 11236
+# Current directory: C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.runs/synth_1
+# Command line: vivado.exe -log uart_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_top.tcl
+# Log file: C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.runs/synth_1/uart_top.vds
+# Journal file: C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source uart_top.tcl -notrace

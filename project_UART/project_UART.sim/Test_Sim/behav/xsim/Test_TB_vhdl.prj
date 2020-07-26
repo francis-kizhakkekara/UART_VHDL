@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_UART.srcs/sources_1/new/ram_cont.vhd" \
+"../../../../project_UART.srcs/sources_1/new/ram.vhd" \
+"../../../../project_UART.srcs/sources_1/new/Test_UART.vhd" \
+"../../../../project_UART.srcs/sources_1/new/baud_gen.vhd" \
+"../../../../project_UART.srcs/sources_1/new/fifo_buffer.vhd" \
+"../../../../project_UART.srcs/sources_1/new/uart_rx.vhd" \
+"../../../../project_UART.srcs/sources_1/new/uart_tx.vhd" \
+"../../../../project_UART.srcs/Test_Sim/new/Test_TB.vhd" \
+
+# Do not sort compile order
+nosort

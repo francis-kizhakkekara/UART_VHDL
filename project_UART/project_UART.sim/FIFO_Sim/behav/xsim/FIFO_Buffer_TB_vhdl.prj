@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_UART.srcs/sources_1/new/fifo_buffer.vhd" \
+"../../../../project_UART.srcs/FIFO_Sim/new/FIFO_Buffer_TB.vhd" \
+
+# Do not sort compile order
+nosort

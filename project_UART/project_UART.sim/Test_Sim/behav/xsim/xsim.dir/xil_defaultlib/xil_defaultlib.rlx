@@ -1,0 +1,11 @@
+0.6
+2019.2
+Dec  5 2019
+05:06:03
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/Test_UART.vhd,1588130327,vhdl,,,,ram_cont_pkg;test_uart,,,,,,,,
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/baud_gen.vhd,1587349821,vhdl,,,,baud_gen,,,,,,,,
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/fifo_buffer.vhd,1587960340,vhdl,,,,fifo_buffer,,,,,,,,
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/ram.vhd,1587931806,vhdl,,,,ram,,,,,,,,
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/ram_cont.vhd,1587961604,vhdl,,,,ram_cont,,,,,,,,
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/uart_rx.vhd,1587776175,vhdl,,,,uart_rx,,,,,,,,
+C:/Users/Francis/Google Drive/UNCC/Spring 2020/ECGR 4146 - VHDL/project_UART/project_UART.srcs/sources_1/new/uart_tx.vhd,1588128242,vhdl,,,,uart_tx,,,,,,,,
